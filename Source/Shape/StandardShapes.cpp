@@ -1,12 +1,12 @@
-// Author:	Fredrik Präntare <prantare@gmail.com> (student at Linköping University)
+// Author:	Fredrik Prï¿½ntare <prantare@gmail.com> (student at Linkï¿½ping University)
 // Date:	11/26/2016
 #include "StandardShapes.h"
 
 #include <vector>
 
 #define GLEW_STATIC
-#include <glew.h>
-#include <glfw3.h>
+#include <GL/glew.h>
+#include <GLFW/glfw3.h>
 
 #include "Mesh.h"
 

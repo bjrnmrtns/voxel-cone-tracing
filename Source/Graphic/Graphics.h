@@ -3,13 +3,13 @@
 #include <vector>
 
 #define GLEW_STATIC
-#include <glew.h>
-#include <glfw3.h>
+#include <GL/glew.h>
+#include <GLFW/glfw3.h>
 
-#include "..\Scene\Scene.h"
-#include "Material\Material.h"
-#include "FBO\FBO.h"
-#include "Camera\OrthographicCamera.h"
+#include "../Scene/Scene.h"
+#include "Material/Material.h"
+#include "FBO/FBO.h"
+#include "Camera/OrthographicCamera.h"
 #include "../Shape/Mesh.h"
 #include "Texture3D.h"
 

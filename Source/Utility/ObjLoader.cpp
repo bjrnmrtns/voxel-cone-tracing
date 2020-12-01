@@ -10,9 +10,9 @@
 #define GLEW_STATIC
 #include <iostream>
 #include <iomanip>
-#include <glew.h>
-#include <glfw3.h>
-#include "../time/Time.h"
+#include <GL/glew.h>
+#include <GLFW/glfw3.h>
+#include "../Time/Time.h"
 #endif
 
 #include "External/tiny_obj_loader.h"
